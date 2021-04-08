@@ -1,0 +1,11 @@
+-->The app uses "superheroAPI".API token is required to run.
+
+To Develop:-
+  Run superhero_API_token=%your api token% ionic serve for a ionic server. Navigate to http://localhost:8100/
+
+To Run
+  1.To run the superheroapi project, command promt is needed.
+  2.Giving cd(change directory) followed by project location.
+  3.Enter "ionic serve" to run the project in local host.
+  4.It will display the design.
+
